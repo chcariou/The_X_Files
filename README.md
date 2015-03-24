@@ -1,1 +1,3 @@
-# The_X_Files
+The R code for my visualization (without the legend) : <a href="http://chcariou.fr/post/113771580897">Binge Watching Guide: The X-Files</a>. Follow the Myhtology, the Taglines, the Smoking Man, the Lone Gunmen, the Mulder & Scully duo, the episodes written by Vince Gilligan (creator of Breaking Bad), the Fans’ ratings, the Wired’s advice… Choose according to your preferences. Have a good binge-watching :)
+
+I realized the visualization layer by layer from outside to inside the circle. I have not tried to optimize the code. I preferred to preserve my steps for adjustments. I use Quartz to see my changes and I record in pdf when I am satisfied.
